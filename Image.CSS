@@ -1,0 +1,24 @@
+.imageStyle1:hover{
+    border-radius: 30%;
+    margin-left:auto;
+    margin-right:auto;
+    position:relative; 
+    width="150"; 
+    height="210";
+        
+}
+
+.imageStyle2:hover{
+    transform:scale(2,2);
+    transform-origin:0 0;
+    left: 20%;
+    
+    top:20%;
+
+    position: absolute;
+}
+
+.imageClick1  {
+    height: auto;
+    max-width: 100%;
+}

@@ -1,0 +1,48 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+ul.Menu li, ul.Footer li p, button {float: left;}
+
+ul.Menu li a, ul.Footer li p{
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    width: 100%;
+    padding: 20px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+ul.Menu li a:hover {background-color: #555;}
+
+
+.header{
+    text-align: center ;
+    style:"Arial Black", Gadget, sans-serif";
+    color: #f2f2f2; 
+    margin-top:0;
+}
+
+
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+
+
+
+
